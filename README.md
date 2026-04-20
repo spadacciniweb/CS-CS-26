@@ -9,7 +9,7 @@ Lo script è stato realizzato durante la lezione.
 
 ### Laboratorio 2
 
-L'esercizio consiste di nelgenerare, modificare, cancellare e gestire risorse sul provider `DigitalOcean` via `api` fornita dallo stesso cloud provider. La documentazione utilizzata è quella [ufficiale](https://docs.digitalocean.com/reference/api/).
+L'esercizio consiste nel generare, modificare, cancellare e gestire risorse sul provider `DigitalOcean` via `api` fornita dallo stesso cloud provider. La documentazione utilizzata è quella [ufficiale](https://docs.digitalocean.com/reference/api/).
 
 Nella directory `laboratorio_2/` sono presenti:
 
@@ -38,9 +38,9 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 | [Iacopo Somma<br/>Leonardo Barone](laboratorio_studenti/openvpn_vs_ikev2_vs_ipsec) | 20/04 | VPN panoramica generale e confronto tra OpenVPN, IKEv2 e IPSec
 |[Francesco Bonanni<br/> Dennis Eremia](laboratorio_studenti/logserver) | 27/04 | Logserver
 | [Donato Marchionda</br>Manuel Cilli](laboratorio_studenti/crittografia_dello_storage_1) | 27/04 | Crittografia dello storage e benchmark
-| [Giorgio Di Donato](laboratorio_studenti/gre) | 27/04 | Protocollo GRE
+| [Giorgio Di Donato](laboratorio_studenti/gre) | 4/05 | Protocollo GRE
 | Francesca Di Giampaolo | ? | tunnel ssh
-| [Matteo Corba](laboratorio_studenti/metodi_di_compressione) | 27/04 | metodi di compressione
+| [Matteo Corba](laboratorio_studenti/metodi_di_compressione) | 4/05 | metodi di compressione
 | | | |
 | [Alberto Cirillo](laboratorio_studenti/ansible) | 15/04 | Ansible
 | [Anthony Candeloro](laboratorio_studenti/crittografia_dello_storage_0) | 15/04 | Crittografia dello storage e benchmark
