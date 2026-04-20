@@ -35,10 +35,12 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 
 | studenti | data discussione | progetto
 |:---:|:---:|:---
-|[Francesco Bonanni<br/> Dennis Eremia](laboratorio_studenti/logserver) | 20/04 | Logserver
-| [Iacopo Somma<br/>Leonardo Barone](laboratorio_studenti/openvpn_vs_ikev2_vs_ipsec) | ? | VPN panoramica generale e confronto tra OpenVPN, IKEv2 e IPSec
+| [Iacopo Somma<br/>Leonardo Barone](laboratorio_studenti/openvpn_vs_ikev2_vs_ipsec) | 20/04 | VPN panoramica generale e confronto tra OpenVPN, IKEv2 e IPSec
+|[Francesco Bonanni<br/> Dennis Eremia](laboratorio_studenti/logserver) | 27/04 | Logserver
+| [Donato Marchionda</br>Manuel Cilli](laboratorio_studenti/crittografia_dello_storage_1) | 27/04 | Crittografia dello storage e benchmark
+| [Giorgio Di Donato](laboratorio_studenti/gre) | 27/04 | Protocollo GRE
 | Francesca Di Giampaolo | ? | tunnel ssh
-| [Matteo Corba](laboratorio_studenti/metodi_di_compressione) | ? | metodi di compressione
+| [Matteo Corba](laboratorio_studenti/metodi_di_compressione) | 27/04 | metodi di compressione
 | | | |
 | [Alberto Cirillo](laboratorio_studenti/ansible) | 15/04 | Ansible
 | [Anthony Candeloro](laboratorio_studenti/crittografia_dello_storage_0) | 15/04 | Crittografia dello storage e benchmark
@@ -46,7 +48,7 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 | [Simone Colazzilli](laboratorio_studenti/compressione_gzip_vs_zip) |  22/04 | compressione gzip/zip
 | [Antonio Di Nucci](laboratorio_studenti/waf) | 22/04 | WAF
 | [Samuele Lombardi](laboratorio_studenti/ipsec) | 22/04 | IPSec
-| [Eleonardo Bajramovski](laboratorio_studenti/filesystem) | 22/04 | filesystem
+| [Eleonardo Bajramovski](laboratorio_studenti/filesystem) | 22/04 | metodi di compressione
 | [Lorenzo Delle Coste](laboratorio_studenti/load_balancer) | 22/04 | Load balancer
 | [Mario Marzia](laboratorio_studenti/sdn_vxlan) | 22/04 | SDN/VxLAN
 | [Antonio Mascolo](laboratorio_studenti/algoritmi_raid) | 29/04 | analisi di algoritmi RAID
