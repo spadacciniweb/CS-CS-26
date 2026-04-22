@@ -58,6 +58,7 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 | [Samuele Lombardi](laboratorio_studenti/ipsec) | 22/04 | IPSec
 | [Eleonardo Bajramovski](laboratorio_studenti/filesystem) | 22/04 | metodi di compressione
 | [Lorenzo Delle Coste](laboratorio_studenti/load_balancer) | 22/04 | Load balancer
-| [Mario Marzia](laboratorio_studenti/sdn_vxlan) | 22/04 | SDN/VxLAN
+| Tommaso Tocco | 22/04 | container
+| [Mario Marzia](laboratorio_studenti/sdn_vxlan) | 29/04 | SDN/VxLAN
 | [Antonio Mascolo](laboratorio_studenti/algoritmi_raid) | 29/04 | analisi di algoritmi RAID
-| Tommaso Tocco | ? | container
+| [Francesco Cavaliere](laboratorio_studenti/filesystem_moderni) | 29/04 | filesystem moderni
