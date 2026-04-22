@@ -27,6 +27,14 @@ Per seguire i passaggi è possibile seguire in ordine le guide riportate di segu
 4. [Samples overview](https://docs.docker.com/reference/samples)
 5. [Load Balancing with Docker Compose and NGINX](https://medium.com/but-it-works-on-my-machine/load-balancing-with-docker-compose-and-nginx-b9077696f624)
 
+### Laboratorio 4
+
+Esercizio semplificato per il parsing di un `JSON` via `Python`. La struttura dati rappresenta un contenitore molto semplificato riconducibile ad un logica `RBAC` con `utenti`, `risorse` e `autorizzazioni`.\
+Nella directory `laboratorio_4/` sono presenti:
+
+1. il file`iam.json` per una versione semplificata di un generico framework `IAM`.
+2. gli script suddivisi in step con complessità crescente.
+
 ## Laboratorio studenti
 
 Le tracce fornite agli studenti sono riportate nel file [progetti_2026.pdf](laboratorio_studenti/progetti_2026.pdf).
