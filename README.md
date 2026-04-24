@@ -56,7 +56,7 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 | [Simone Colazzilli](laboratorio_studenti/compressione_gzip_vs_zip) |  22/04 | compressione gzip/zip
 | [Antonio Di Nucci](laboratorio_studenti/waf) | 22/04 | WAF
 | [Samuele Lombardi](laboratorio_studenti/ipsec) | 22/04 | IPSec
-| [Eleonardo Bajramovski](laboratorio_studenti/filesystem) | 22/04 | metodi di compressione
+| [Eleonardo Bajramovski](https://github.com/Neniku/Metodi_Di_Compressione/) | 22/04 | metodi di compressione
 | [Lorenzo Delle Coste](laboratorio_studenti/load_balancer) | 22/04 | Load balancer
 | Tommaso Tocco | 22/04 | container
 | [Mario Marzia](laboratorio_studenti/sdn_vxlan) | 29/04 | SDN/VxLAN
