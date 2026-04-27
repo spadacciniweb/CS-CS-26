@@ -29,11 +29,8 @@ Per seguire i passaggi è possibile seguire in ordine le guide riportate di segu
 
 ### Laboratorio 4
 
-Esercizio semplificato per il parsing di un `JSON` via `Python`. La struttura dati rappresenta un contenitore molto semplificato riconducibile ad un logica `RBAC` con `utenti`, `risorse` e `autorizzazioni`.\
-Nella directory `laboratorio_4/` sono presenti:
-
-1. il file`iam.json` per una versione semplificata di un generico framework `IAM`.
-2. gli script suddivisi in step con complessità crescente.
+Esercizio semplificato per il parsing di un `JSON` via `Python`. La struttura dati rappresenta un contenitore (molto semplificato) riconducibile ad un logica `RBAC` con `utenti`, `risorse` e `autorizzazioni`.\
+Per i dettagli: [laboratorio_4](laboratori_del_corso/laboratorio_4/README.md).
 
 ## Laboratorio studenti
 
@@ -43,7 +40,7 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 
 | studenti | data discussione | progetto
 |:---:|:---:|:---
-| [Iacopo Somma<br/>Leonardo Barone](laboratorio_studenti/openvpn_vs_ikev2_vs_ipsec) | 20/04 | VPN panoramica generale e confronto tra OpenVPN, IKEv2 e IPSec
+| [Jacopo Somma<br/>Leonardo Barone](https://github.com/MrJako243/VPN-on-Linux-and-Windows.git) | 20/04 | VPN panoramica generale e confronto tra OpenVPN, IKEv2 e IPSec
 |[Francesco Bonanni<br/> Dennis Eremia](laboratorio_studenti/logserver) | 27/04 | Logserver
 | [Donato Marchionda</br>Manuel Cilli](laboratorio_studenti/crittografia_dello_storage_1) | 27/04 | Crittografia dello storage e benchmark
 | [Giorgio Di Donato](laboratorio_studenti/gre) | 4/05 | Protocollo GRE

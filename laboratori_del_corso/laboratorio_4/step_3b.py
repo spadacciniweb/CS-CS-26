@@ -22,29 +22,16 @@ def main():
     all_authorizations = load_authorizations()
     print("Got authorizations ", type(all_authorizations))
 
-    print("\n---")
-    user_name = "an@other.com"
-    resource_name = ""
-    required_permission = ""
-    check_authorization(all_authorizations, user_name, resource_name, required_permission)
+    tests = [
+        ("an@other.com", "", ""),
+        ("ms@example.com", "S3::", ""),
+        ("ms@example.com", "S3::C8ABCX", "read"),
+        ("ms@example.com", "S3::C8ABCX", "delete"),
+    ]
 
-    print("\n---")
-    user_name = "ms@example.com"
-    resource_name = "S3::"
-    required_permission = ""
-    check_authorization(all_authorizations, user_name, resource_name, required_permission)
+    for user_name, resource_name, action in tests:
+        print("\n---")
+        check_authorization(all_authorizations, user_name, resource_name, action)
 
-    print("\n---")
-    user_name = "ms@example.com"
-    resource_name = "S3::C8ABCX"
-    required_permission = "read"
-    check_authorization(all_authorizations, user_name, resource_name, required_permission)
-
-    print("\n---")
-    user_name = "ms@example.com"
-    resource_name = "S3::C8ABCX"
-    required_permission = "delete"
-    check_authorization(all_authorizations, user_name, resource_name, required_permission)
-    
 if __name__ == "__main__":
     main()

@@ -4,11 +4,11 @@
         "lastname": "BIG",
         "registration_date": "2020-02-01 11:01:02",
         "authorizations": {
-            "s3::": {
+            "S3::": {
                 "perms": ["read", "write", "delete"],
                 "since": "2020-02-01 12:03:01"
             },
-            "ec2::": {
+            "EC2::": {
                 "perms": ["read", "write", "delete"],
                 "since": "2020-02-01 12:01:01"
             }
@@ -23,7 +23,7 @@
                 "perms": ["read", "write"],
                 "since": "2020-02-01 12:06:01"
             },
-            "ec2::": {
+            "EC2::": {
                 "perms": ["read", "write", "delete"],
                 "since": "2020-02-01 12:08:01"
             }

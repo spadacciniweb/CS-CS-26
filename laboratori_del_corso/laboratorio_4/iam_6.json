@@ -1,0 +1,26 @@
+{
+  "users": {
+    "ms@example.com": {
+      "roles": ["admin"],
+      "authorizations": {
+        "S3::C8ABCX": {
+          "perms": [
+            {"action": "delete", "effect": "deny"}
+          ]
+        }
+      }
+    }
+  },
+  "roles": {
+    "admin": {
+      "authorizations": {
+        "S3::": {
+          "perms": [
+            {"action": "read", "effect": "allow"},
+            {"action": "delete", "effect": "allow"}
+          ]
+        }
+      }
+    }
+  }
+}
