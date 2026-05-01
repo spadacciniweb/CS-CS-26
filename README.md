@@ -42,7 +42,7 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 |:---:|:---:|:---
 | [Jacopo Somma<br/>Leonardo Barone](https://github.com/MrJako243/VPN-on-Linux-and-Windows.git) | 20/04 | VPN panoramica generale e confronto tra OpenVPN, IKEv2 e IPSec
 |[Francesco Bonanni<br/> Dennis Eremia](laboratorio_studenti/logserver) | 27/04 | Logserver
-| [Donato Marchionda</br>Manuel Cilli](laboratorio_studenti/crittografia_dello_storage_1) | 27/04 | Crittografia dello storage e benchmark
+| [Donato Marchionda</br>Manuel Cilli](laboratorio_studenti/crittografia_dello_storage_2) | 27/04 | Crittografia dello storage e benchmark
 | [Giorgio Di Donato](laboratorio_studenti/gre) | 4/05 | Protocollo GRE
 | Francesca Di Giampaolo | ? | tunnel ssh
 | [Matteo Corba](laboratorio_studenti/metodi_di_compressione) | 4/05 | metodi di compressione
