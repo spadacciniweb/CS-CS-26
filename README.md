@@ -13,7 +13,7 @@ L'esercizio consiste nel generare, modificare, cancellare e gestire risorse sul 
 
 Nella directory `laboratorio_2/` sono presenti:
 
-1. esempio di `secrets` per il caricare nell'environment del token da utilizzare.
+1. esempio di `secrets` per il caricamento nell'environment del token da utilizzare.
 2. gli script suddivisi in step.
 
 ### Laboratorio 3
@@ -44,7 +44,7 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 |[Francesco Bonanni<br/> Dennis Eremia](laboratorio_studenti/logserver) | 27/04 | Logserver
 | [Donato Marchionda</br>Manuel Cilli](laboratorio_studenti/crittografia_dello_storage_2) | 27/04 | Crittografia dello storage e benchmark
 | [Giorgio Di Donato](laboratorio_studenti/gre) | 4/05 | Protocollo GRE
-| Francesca Di Giampaolo | ? | tunnel ssh
+| [Francesca Di Giampaolo](laboratorio_studenti/algoritmi_raid_2) | 4/05 | analisi di algoritmi RAID
 | [Matteo Corba](laboratorio_studenti/metodi_di_compressione) | 4/05 | metodi di compressione
 | | | |
 | [Alberto Cirillo](laboratorio_studenti/ansible) | 15/04 | Ansible
