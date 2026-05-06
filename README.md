@@ -52,7 +52,7 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 | [Matteo Salis](laboratorio_studenti/crittografia_dello_storage_1) | 22/04 | crittografia dello storage
 | Simone Colazzilli |  22/04 | compressione gzip/zip
 | [Antonio Di Nucci](laboratorio_studenti/waf) | 22/04 | WAF
-| [Samuele Lombardi](laboratorio_studenti/ipsec) | 4/04 | IPSec
+| [Samuele Lombardi](laboratorio_studenti/ipsec) | 29/04 | IPSec
 | [Eleonardo Bajramovski](https://github.com/Neniku/Metodi_Di_Compressione/) | 22/04 | metodi di compressione
 | [Lorenzo Delle Coste](laboratorio_studenti/load_balancer) | 22/04 | Load balancer
 | Tommaso Tocco | 22/04 | container
