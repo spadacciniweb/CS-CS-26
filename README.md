@@ -41,18 +41,18 @@ Di seguito gli studenti che hanno optato per la discussione/realizzazione del pr
 | studenti | data discussione | progetto
 |:---:|:---:|:---
 | [Jacopo Somma<br/>Leonardo Barone](https://github.com/MrJako243/VPN-on-Linux-and-Windows.git) | 20/04 | VPN panoramica generale e confronto tra OpenVPN, IKEv2 e IPSec
-|[Francesco Bonanni<br/> Dennis Eremia](laboratorio_studenti/logserver) | 27/04 | Logserver
+| Francesco Bonanni<br/> Dennis Eremia | 27/04 | Logserver
 | [Donato Marchionda</br>Manuel Cilli](laboratorio_studenti/crittografia_dello_storage_2) | 27/04 | Crittografia dello storage e benchmark
-| [Giorgio Di Donato](laboratorio_studenti/gre) | 4/05 | Protocollo GRE
+| Giorgio Di Donato | ? | Protocollo GRE
 | [Francesca Di Giampaolo](laboratorio_studenti/algoritmi_raid_2) | 4/05 | analisi di algoritmi RAID
-| [Matteo Corba](laboratorio_studenti/metodi_di_compressione) | 4/05 | metodi di compressione
+| Matteo Corba | 4/05 | metodi di compressione
 | | | |
 | [Alberto Cirillo](laboratorio_studenti/ansible) | 15/04 | Ansible
 | [Anthony Candeloro](laboratorio_studenti/crittografia_dello_storage_0) | 15/04 | Crittografia dello storage e benchmark
 | [Matteo Salis](laboratorio_studenti/crittografia_dello_storage_1) | 22/04 | crittografia dello storage
-| [Simone Colazzilli](laboratorio_studenti/compressione_gzip_vs_zip) |  22/04 | compressione gzip/zip
+| Simone Colazzilli |  22/04 | compressione gzip/zip
 | [Antonio Di Nucci](laboratorio_studenti/waf) | 22/04 | WAF
-| [Samuele Lombardi](laboratorio_studenti/ipsec) | 22/04 | IPSec
+| [Samuele Lombardi](laboratorio_studenti/ipsec) | 4/04 | IPSec
 | [Eleonardo Bajramovski](https://github.com/Neniku/Metodi_Di_Compressione/) | 22/04 | metodi di compressione
 | [Lorenzo Delle Coste](laboratorio_studenti/load_balancer) | 22/04 | Load balancer
 | Tommaso Tocco | 22/04 | container
